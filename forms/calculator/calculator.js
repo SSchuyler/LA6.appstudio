@@ -20,9 +20,9 @@ btnAdd.onclick=function(){
 }
 
 Button1.onclick=function(){
-  inptNum1.value = ""
-  inptNum2.value = ""
-  lblMath.value = ""
+  inptNum1.value = " "
+  inptNum2.value = " "
+  lblMath.value = " "
 }
 
 
