@@ -9,6 +9,6 @@ btnMember.onclick=function(){
     lblMember.value = (`${newMember}, you are already a member.`) }
   else {
     members[11] = newMember 
-    lblMember.value = (`${newMember}, you have been added to the list`)
+    lblMember.value = (`${newMember}, you have been added to the list!`)
 }
 }
